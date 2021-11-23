@@ -1,2 +1,2 @@
-# Practica_con_Angular
-Created with CodeSandbox
+# Practica con Angular
+Mis primeros pasos en Angular.
